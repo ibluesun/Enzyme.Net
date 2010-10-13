@@ -1,0 +1,13 @@
+﻿Light script is scripting language that can't used alone without your help.
+
+Light Script doesn't have a storage to put or get the fields
+
+Light Script doesn't have built in functions
+
+you have to provide the context that have your fields and your functions that will be called.
+
+a = 30  # this will be stored on the engine memory
+
+$a = 30 # this will be stored on the external memory of your context.
+
+

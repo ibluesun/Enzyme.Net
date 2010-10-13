@@ -1,0 +1,16 @@
+D:\MyCode2010\LightScript\ValidationTestingProject\bin\Debug\ValidationTestingProject.dll
+D:\MyCode2010\LightScript\ValidationTestingProject\bin\Debug\ValidationTestingProject.pdb
+D:\MyCode2010\LightScript\ValidationTestingProject\bin\Debug\LightScript.dll
+D:\MyCode2010\LightScript\ValidationTestingProject\bin\Debug\ParticleLexer.dll
+D:\MyCode2010\LightScript\ValidationTestingProject\bin\Debug\LightScript.pdb
+D:\MyCode2010\LightScript\ValidationTestingProject\obj\Debug\ResolveAssemblyReference.cache
+D:\MyCode2010\LightScript\ValidationTestingProject\obj\Debug\ValidationTestingProject.dll
+D:\MyCode2010\LightScript\ValidationTestingProject\obj\Debug\ValidationTestingProject.pdb
+D:\MyCode2010\Enzyme.Net\EnzymeTestingProject\bin\Debug\ValidationTestingProject.dll
+D:\MyCode2010\Enzyme.Net\EnzymeTestingProject\bin\Debug\ValidationTestingProject.pdb
+D:\MyCode2010\Enzyme.Net\EnzymeTestingProject\bin\Debug\LightScript.dll
+D:\MyCode2010\Enzyme.Net\EnzymeTestingProject\bin\Debug\ParticleLexer.dll
+D:\MyCode2010\Enzyme.Net\EnzymeTestingProject\bin\Debug\LightScript.pdb
+D:\MyCode2010\Enzyme.Net\EnzymeTestingProject\obj\Debug\ResolveAssemblyReference.cache
+D:\MyCode2010\Enzyme.Net\EnzymeTestingProject\obj\Debug\ValidationTestingProject.dll
+D:\MyCode2010\Enzyme.Net\EnzymeTestingProject\obj\Debug\ValidationTestingProject.pdb

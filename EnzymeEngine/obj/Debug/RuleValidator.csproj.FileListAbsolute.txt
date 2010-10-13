@@ -1,0 +1,6 @@
+D:\MyCode2010\RuleValidator\RuleValidator\bin\Debug\RuleValidator.dll
+D:\MyCode2010\RuleValidator\RuleValidator\bin\Debug\RuleValidator.pdb
+D:\MyCode2010\RuleValidator\RuleValidator\bin\Debug\ParticleLexer.dll
+D:\MyCode2010\RuleValidator\RuleValidator\obj\Debug\ResolveAssemblyReference.cache
+D:\MyCode2010\RuleValidator\RuleValidator\obj\Debug\RuleValidator.dll
+D:\MyCode2010\RuleValidator\RuleValidator\obj\Debug\RuleValidator.pdb

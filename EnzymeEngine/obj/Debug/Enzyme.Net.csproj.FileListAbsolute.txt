@@ -1,0 +1,12 @@
+D:\MyCode2010\LightScript\RuleValidator\bin\Debug\LightScript.dll
+D:\MyCode2010\LightScript\RuleValidator\bin\Debug\LightScript.pdb
+D:\MyCode2010\LightScript\RuleValidator\bin\Debug\ParticleLexer.dll
+D:\MyCode2010\LightScript\RuleValidator\obj\Debug\ResolveAssemblyReference.cache
+D:\MyCode2010\LightScript\RuleValidator\obj\Debug\LightScript.dll
+D:\MyCode2010\LightScript\RuleValidator\obj\Debug\LightScript.pdb
+D:\MyCode2010\Enzyme.Net\EnzymeEngine\bin\Debug\LightScript.dll
+D:\MyCode2010\Enzyme.Net\EnzymeEngine\bin\Debug\LightScript.pdb
+D:\MyCode2010\Enzyme.Net\EnzymeEngine\bin\Debug\ParticleLexer.dll
+D:\MyCode2010\Enzyme.Net\EnzymeEngine\obj\Debug\ResolveAssemblyReference.cache
+D:\MyCode2010\Enzyme.Net\EnzymeEngine\obj\Debug\LightScript.dll
+D:\MyCode2010\Enzyme.Net\EnzymeEngine\obj\Debug\LightScript.pdb
